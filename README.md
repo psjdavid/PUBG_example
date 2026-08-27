@@ -7,7 +7,7 @@
 ## ⬇️ 다운로드
 
 ### Windows (exe)
-[example_exe.zip 다운로드](https://github.com/아이디/레포이름/releases/tag/v1.0)
+[example_exe.zip 다운로드](https://github.com/psjdavid/PUBG_example/releases/tag/v1.0)
 
 1. zip 파일 다운로드
 2. 압축 해제
@@ -15,7 +15,7 @@
 4. ⚠️ Windows Defender 경고가 뜨면 **추가 정보 → 실행** 클릭
 
 ### Android (apk)
-[example_apk.apk 다운로드](https://github.com/아이디/레포이름/releases/tag/v1.1)
+[example_apk.apk 다운로드](https://github.com/psjdavid/PUBG_example/releases/tag/v1.1)
 
 1. apk 파일 다운로드
 2. 다운로드한 apk 실행해서 설치
